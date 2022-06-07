@@ -1,15 +1,14 @@
-# Tools Hub
+# GadgetHub
 
-## [Live Site Link](https://toolshub-4c24c.web.app)
+## [Live Site Link](https://gadget-hub-4c849.web.app)
 
-Click to the link > https://toolshub-4c24c.web.app
+Click to the link > https://gadget-hub-4c849.web.app
 
 ## Tasks on this Assignment:
 
-- Full Stack Tools management Website
-- Separate Client and Server Module
-- MongoDB for database
-- Hosted server module on Heroku
-- Used JWT for improved security
-- AXIOS
-- React-Query
+* Full Stack Warehouse management Website
+* Separate Client and Server Module
+* MongoDB for database
+* Hosted server module on Heroku
+* Used JWT for improved security
+* Asked question in StackOverflow
